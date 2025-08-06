@@ -1,149 +1,83 @@
-<div align="center" style="
-  background: #0b1a38;
-  color: #cbd6f7;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  max-width: 900px;
-  margin: auto;
-  border-radius: 25px;
-  padding: 40px 50px;
-  box-shadow: 0 12px 50px rgba(0,0,0,0.5);
-">
+<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 40px; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); color: #f0f8ff;">
 
-  <!-- GIF Bienvenida -->
-  <a href="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF1c240NDlqbmVyYzJsaW4zdDAwNmtqdG1kN2p6M3VzMGNwb2E4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" target="_blank" rel="noopener noreferrer" style="display: inline-block; border-radius: 25px; overflow: hidden; box-shadow: 0 10px 40px rgba(112,161,255,0.5); transition: transform 0.3s ease-in-out;">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZnNGYyb3pieGh1aWQ4bHpmdGFqcGt3cG5qM3NicjJ5dmNlaWw4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Welcome GIF" width="180" style="display: block;" />
-  </a>
-
-  <!-- Título -->
-  <h1 style="margin-top: 30px; font-weight: 900; font-size: 3.2rem; letter-spacing: 3px; color: #70a1ff;">
-    👋 Welcome to my GitHub profile!
+  <h1 style="font-size: 3.5rem; margin-bottom: 0.2em; text-shadow: 0 3px 6px rgba(0,0,0,0.3);">
+    👋 Hola, soy <strong>Christian Aguilar</strong>
   </h1>
-
-  <!-- Banner -->
-  <img src="bannergit.png" alt="Banner de Christian Aguilar" width="85%" style="margin: 30px auto 40px; border-radius: 25px; box-shadow: 0 14px 50px rgba(112,161,255,0.3);" />
-
-  <!-- Bio -->
-  <p style="max-width: 700px; font-weight: 600; font-size: 1.2rem; line-height: 1.6; color: #a0b9ff; margin-bottom: 40px;">
-    I am a <strong style="color:#70a1ff;">passionate software developer</strong> with solid experience in <strong>Java</strong> and <strong>Spring Boot</strong> for backend development. I also have foundational knowledge in <strong>HTML</strong> and <strong>CSS3</strong>, eager to learn and grow constantly.<br><br>
-    🚀 Always open to new challenges and collaborations to create impactful projects.
+  
+  <p style="font-size: 1.5rem; font-weight: 500; margin-top: 0;">
+    Desarrollador apasionado | Java & C | Apasionado por la tecnología y la educación
   </p>
 
-  <!-- Instagram Badge -->
-  <a href="https://www.instagram.com/c_aguilar_11?igsh=bGExaXQ1aWNuMHE1&utm_source=qr" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 50px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" style="border-radius: 12px; box-shadow: 0 6px 18px rgba(228,64,95,0.4);" />
-  </a>
-
-  <!-- Skills -->
-  <h2 style="
-    font-weight: 900; 
-    font-size: 2.8rem; 
-    color: #9bb8a2ff; 
-    letter-spacing: 2.5px; 
-    margin-bottom: 40px;
-    text-shadow: 0 0 8px #c84c4c99;
-    text-align: center;
-  ">
-    🛠️ My Skills
- <div style="max-width: 650px; margin: 30px auto; text-align: center; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <a href="#" style="
-    margin: 10px; 
-    display: inline-block; 
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border-radius: 12px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
-    <img src="https://img.shields.io/badge/Java-90%25-blue" alt="Java 90%" style="border-radius: 12px;" />
-  </a>
-
-  <a href="#" style="
-    margin: 10px; 
-    display: inline-block; 
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border-radius: 12px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
-    <img src="https://img.shields.io/badge/Spring%20Boot-75%25-brightgreen" alt="Spring Boot 75%" style="border-radius: 12px;" />
-  </a>
-
-  <a href="#" style="
-    margin: 10px; 
-    display: inline-block; 
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border-radius: 12px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
-    <img src="https://img.shields.io/badge/HTML5-60%25-orange" alt="HTML5 60%" style="border-radius: 12px;" />
-  </a>
-
-  <a href="#" style="
-    margin: 10px; 
-    display: inline-block; 
-    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    border-radius: 12px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  " 
-  onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.3)';" 
-  onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';">
-    <img src="https://img.shields.io/badge/CSS3-50%25-blue" alt="CSS3 50%" style="border-radius: 12px;" />
-  </a>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZnNGYyb3pieGh1aWQ4bHpmdGFqcGt3cG5qM3NicjJ5dmNlaWw4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Welcome" width="160" style="margin-top: 30px; border-radius: 50%; box-shadow: 0 5px 15px rgba(112,161,255,0.6);" />
 </div>
 
+---
 
- <h2 style="
-  font-weight: 900; 
-  font-size: 3rem; 
-  color: #9bb8a2ff; 
-  letter-spacing: 3px; 
-  text-align: center; 
-  margin-bottom: 40px; 
-  text-shadow: 0 0 8px #c84c4c99;
-">
-  🎓 Educación y Experiencia
-</h2>
+<div style="max-width: 900px; margin: 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-
-  
-  <article style="margin-bottom: 40px;">
-    <h3 style="color: #70a1ff; font-weight: 700; font-size: 1.8rem; margin-bottom: 12px; border-left: 5px solid #70a1ff; padding-left: 15px;">
-      🎓 Universidad de las Américas
-    </h3>
-    <p style="font-size: 1.2rem; line-height: 1.6; color: #a0b9ff; margin-left: 10px;">
-      Currently pursuing a <strong>bachelor's degree in Computer Science</strong>, focusing on <em>software development</em>, <em>algorithms</em>, and <em>data structures</em>.  
-      Involved in various academic projects and hackathons enhancing practical skills.
+  <section style="background: #f7f9fc; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
+    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">✨ Sobre mí</h2>
+    <p style="font-size: 1.15rem; line-height: 1.6; color: #333;">
+      Soy <strong>Christian Aguilar</strong>, estudiante y desarrollador con pasión por crear soluciones tecnológicas que impacten positivamente.  
+      Me especializo en <em>Java</em>, <em>C</em> y desarrollo web, con fuerte interés en proyectos educativos y de impacto social.  
+      Creo que la tecnología y la educación son la llave para un futuro mejor.
     </p>
-  </article>
+  </section>
 
-  <article style="margin-bottom: 40px;">
-    <h3 style="color: #70a1ff; font-weight: 700; font-size: 1.8rem; margin-bottom: 12px; border-left: 5px solid #70a1ff; padding-left: 15px;">
-      🤝 Volunteer Experience
-    </h3>
-    <p style="font-size: 1.2rem; line-height: 1.6; color: #a0b9ff; margin-left: 10px;">
-      Participated in tech volunteering events teaching programming basics to kids and supporting community digital literacy.  
-      Passionate about <strong>sharing knowledge</strong> and fostering collective growth.
+  <section style="background: #eef4fb; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
+    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">🛠️ Tecnologías & Herramientas</h2>
+    <p style="font-size: 1.15rem; color: #555;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" style="margin-right: 10px;" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;" />
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     </p>
-  </article>
+  </section>
 
-  <article>
-    <h3 style="color: #70a1ff; font-weight: 700; font-size: 1.8rem; margin-bottom: 20px; border-left: 5px solid #70a1ff; padding-left: 15px;">
-      🌐 Languages & Soft Skills
-    </h3>
-    <ul style="list-style: none; padding-left: 20px; font-size: 1.15rem; color: #a0b9ff; line-height: 1.8;">
-      <li style="margin-bottom: 12px;">🗣️ <strong>English:</strong> Intermediate (B1/B2) — improving communication and technical reading skills</li>
-      <li style="margin-bottom: 12px;">🤝 <strong>Teamwork:</strong> Strong collaboration and interpersonal skills</li>
-      <li style="margin-bottom: 12px;">🧠 <strong>Problem-solving:</strong> Analytical and solution-oriented mindset</li>
-      <li style="margin-bottom: 12px;">🔄 <strong>Adaptability:</strong> Eager to learn new technologies and tools</li>
-      <li>⏰ <strong>Time Management:</strong> Effective organization and prioritization skills</li>
-    </ul>
-  </article>
+  <section style="background: #f7f9fc; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
+    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">🚀 Proyectos destacados</h2>
 
-  <p style="margin-top: 40px; text-align: center; font-style: italic; color: #70a1ff; font-size: 1.1rem;">
-    ✨ Committed to continuous learning and creating impactful solutions.
-  </p>
+    <table style="width: 100%; border-collapse: collapse; font-size: 1.1rem;">
+      <thead>
+        <tr style="background: #d7e1f9;">
+          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Proyecto</th>
+          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Descripción</th>
+          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Tecnologías</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Gestor de ventas</td>
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Sistema de ventas con Java y archivos</td>
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Java, POO, Archivos</td>
+        </tr>
+        <tr style="background: #f1f6ff;">
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Simulador de contaminación</td>
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Predicción de contaminación con ponderación</td>
+          <td style="padding: 12px; border-bottom: 1px solid #ccc;">C, Archivos Binarios</td>
+        </tr>
+        <tr>
+          <td style="padding: 12px;">Revista académica digital</td>
+          <td style="padding: 12px;">Web para publicaciones científicas</td>
+          <td style="padding: 12px;">Ghost CMS, HTML, Alfresco</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
 
-</section>
+  <section style="background: #eef4fb; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
+    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">📫 Contacto</h2>
+    <p style="font-size: 1.15rem; color: #555;">
+      📧 christian.aguilar.e.m@gmail.com <br />
+      🌐 <a href="https://www.linkedin.com/in/christian-aguilar" target="_blank" rel="noopener noreferrer" style="color:#1e3c72; text-decoration:none; font-weight:700;">LinkedIn</a><br />
+      📍 Quito, Ecuador
+    </p>
+  </section>
+
+</div>
+
+<p align="center" style="margin-top: 40px; font-style: italic; color: #667dff;">
+  “La tecnología no es nada. Lo importante es que tengas fe en la gente.” — Steve Jobs
+</p>
