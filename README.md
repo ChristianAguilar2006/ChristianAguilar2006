@@ -1,83 +1,101 @@
-<div align="center" style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 40px; border-radius: 20px; box-shadow: 0 8px 24px rgba(0,0,0,0.2); color: #f0f8ff;">
+<h1 align="center">Hola, soy <strong>Christian Aguilar</strong> 👋</h1>
 
-  <h1 style="font-size: 3.5rem; margin-bottom: 0.2em; text-shadow: 0 3px 6px rgba(0,0,0,0.3);">
-    👋 Hola, soy <strong>Christian Aguilar</strong>
-  </h1>
-  
-  <p style="font-size: 1.5rem; font-weight: 500; margin-top: 0;">
-    Desarrollador apasionado | Java & C | Apasionado por la tecnología y la educación
-  </p>
+<p align="center">
+  Desarrollador apasionado | Java, Spring Boot & C | Apasionado por la tecnología y la educación
+</p>
 
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZnNGYyb3pieGh1aWQ4bHpmdGFqcGt3cG5qM3NicjJ5dmNlaWw4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Welcome" width="160" style="margin-top: 30px; border-radius: 50%; box-shadow: 0 5px 15px rgba(112,161,255,0.6);" />
-</div>
+<p align="center" style="font-size: 1.3rem; margin: 40px 0 30px 0;">
+  <strong>Welcome</strong>
+</p>
 
 ---
 
-<div style="max-width: 900px; margin: 40px auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+## ✨ Sobre mí
 
-  <section style="background: #f7f9fc; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
-    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">✨ Sobre mí</h2>
-    <p style="font-size: 1.15rem; line-height: 1.6; color: #333;">
-      Soy <strong>Christian Aguilar</strong>, estudiante y desarrollador con pasión por crear soluciones tecnológicas que impacten positivamente.  
-      Me especializo en <em>Java</em>, <em>C</em> y desarrollo web, con fuerte interés en proyectos educativos y de impacto social.  
-      Creo que la tecnología y la educación son la llave para un futuro mejor.
-    </p>
-  </section>
+Soy <strong>Christian Aguilar</strong>, estudiante y desarrollador con pasión por crear soluciones tecnológicas que impacten positivamente.  
+Me especializo en <em>Java</em>, <em>Spring Boot</em>, <em>C</em> y desarrollo web, con fuerte interés en proyectos educativos y de impacto social.  
+Creo que la tecnología y la educación son la llave para un futuro mejor.
 
-  <section style="background: #eef4fb; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
-    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">🛠️ Tecnologías & Herramientas</h2>
-    <p style="font-size: 1.15rem; color: #555;">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" style="margin-right: 10px;" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin-right: 10px;" />
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    </p>
-  </section>
+---
 
-  <section style="background: #f7f9fc; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1); margin-bottom: 40px;">
-    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">🚀 Proyectos destacados</h2>
+## 🎓 Educación
 
-    <table style="width: 100%; border-collapse: collapse; font-size: 1.1rem;">
-      <thead>
-        <tr style="background: #d7e1f9;">
-          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Proyecto</th>
-          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Descripción</th>
-          <th style="padding: 10px; border-bottom: 2px solid #1e3c72; text-align: left;">Tecnologías</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Gestor de ventas</td>
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Sistema de ventas con Java y archivos</td>
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Java, POO, Archivos</td>
-        </tr>
-        <tr style="background: #f1f6ff;">
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Simulador de contaminación</td>
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">Predicción de contaminación con ponderación</td>
-          <td style="padding: 12px; border-bottom: 1px solid #ccc;">C, Archivos Binarios</td>
-        </tr>
-        <tr>
-          <td style="padding: 12px;">Revista académica digital</td>
-          <td style="padding: 12px;">Web para publicaciones científicas</td>
-          <td style="padding: 12px;">Ghost CMS, HTML, Alfresco</td>
-        </tr>
-      </tbody>
-    </table>
-  </section>
+**Universidad de las Américas**  
+Actualmente cursando la carrera de Ingeniería en Sistemas Computacionales con énfasis en desarrollo de software, algoritmos y estructuras de datos.  
+Participación activa en proyectos académicos y hackathons.
 
-  <section style="background: #eef4fb; padding: 25px 35px; border-radius: 20px; box-shadow: 0 6px 18px rgba(0,0,0,0.1);">
-    <h2 style="color: #2a5298; font-weight: 700; font-size: 2rem; margin-bottom: 15px; border-left: 6px solid #1e3c72; padding-left: 15px;">📫 Contacto</h2>
-    <p style="font-size: 1.15rem; color: #555;">
-      📧 christian.aguilar.e.m@gmail.com <br />
-      🌐 <a href="https://www.linkedin.com/in/christian-aguilar" target="_blank" rel="noopener noreferrer" style="color:#1e3c72; text-decoration:none; font-weight:700;">LinkedIn</a><br />
-      📍 Quito, Ecuador
-    </p>
-  </section>
+---
 
-</div>
+## 🤝 Experiencia Voluntaria
 
-<p align="center" style="margin-top: 40px; font-style: italic; color: #667dff;">
+Participación en eventos de voluntariado tecnológico, enseñando programación básica a niños y apoyando la alfabetización digital comunitaria.  
+Apasionado por compartir conocimiento y fomentar el crecimiento colectivo.
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+</p>
+
+---
+
+## 🚀 Proyectos destacados
+
+<table>
+  <thead>
+    <tr style="background-color:#d7e1f9;">
+      <th style="padding: 10px; text-align: left;">Proyecto</th>
+      <th style="padding: 10px; text-align: left;">Descripción</th>
+      <th style="padding: 10px; text-align: left;">Tecnologías</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px;">Gestor de ventas</td>
+      <td style="padding: 12px;">Sistema de ventas con Java, Spring Boot y archivos</td>
+      <td style="padding: 12px;">Java, Spring Boot, POO, Archivos</td>
+    </tr>
+    <tr style="background-color:#f1f6ff;">
+      <td style="padding: 12px;">Simulador de contaminación</td>
+      <td style="padding: 12px;">Predicción de contaminación con ponderación</td>
+      <td style="padding: 12px;">C, Archivos Binarios</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px;">Revista académica digital</td>
+      <td style="padding: 12px;">Web para publicaciones científicas</td>
+      <td style="padding: 12px;">Ghost CMS, HTML, Alfresco</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 🌐 Idiomas y habilidades blandas
+
+- 🗣️ Inglés: Intermedio (B1/B2) — mejorando comunicación y lectura técnica  
+- 🤝 Trabajo en equipo: fuerte colaboración e interpersonal  
+- 🧠 Resolución de problemas: mentalidad analítica y orientada a soluciones  
+- 🔄 Adaptabilidad: ganas de aprender nuevas tecnologías y herramientas  
+- ⏰ Gestión del tiempo: organización y priorización efectiva  
+
+---
+
+## 📫 Contacto
+
+- 📧 christian.aguilar.e.m@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/christian-aguilar)  
+- 📍 Quito, Ecuador
+
+---
+
+<p align="center" style="font-style: italic; color: #555;">
   “La tecnología no es nada. Lo importante es que tengas fe en la gente.” — Steve Jobs
 </p>
