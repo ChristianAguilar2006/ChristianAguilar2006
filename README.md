@@ -11,7 +11,7 @@
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-christian.aguilar.e.m%40gmail.com-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caem072006)
 ![Location](https://img.shields.io/badge/Quito-Ecuador-ff6f61?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Views](https://komarev.com/ghpvc/?username=ChristianAguilar2006&style=for-the-badge&color=0A66C2)
 
@@ -19,25 +19,21 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**.  
-- 🧠 Enfocado en **backend con Java y Spring Boot**.  
-- 💡 Me interesa la **educación**, los proyectos con impacto social y el código limpio.  
-- 🚀 Siempre aprendiendo: buenas prácticas, APIs, arquitectura y patrones.
+Estudiante de **Ingeniería en Sistemas Computacionales**, con interés en el desarrollo backend usando **Java** y **Spring Boot**.  
+Me gusta escribir código claro, entendible y orientado a buenas prácticas, especialmente en proyectos con impacto educativo o social.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-<!-- Iconos principales -->
 <img src="https://skillicons.dev/icons?i=java,spring,c,html,css,git,github,idea,vscode&theme=light" />
 
 <br/><br/>
 
-<!-- Badges por tecnología -->
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -49,21 +45,32 @@
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **Gestor de ventas** | Sistema para gestionar ventas, clientes y registros, aplicando POO y persistencia en archivos. | Java · Spring Boot · POO |
-| **Simulador de contaminación** | Estimación de niveles de contaminación ambiental a partir de datos ponderados. | C · Archivos binarios |
-| **Revista académica digital** | Plataforma para publicaciones científicas integrando Ghost CMS y Alfresco. | Ghost CMS · HTML · Alfresco |
-
-> Cuando tengas los repos públicos, añade los enlaces directos aquí 👆.
+**Gestor de ventas**  
+Aplicación orientada a la gestión de ventas, clientes y registros, con enfoque en organización de datos y flujo de trabajo sencillo.  
+- Responsabilidades: diseño de la estructura de datos, lógica de negocio y manejo de archivos.  
+- Tecnologías: Java, Spring Boot, programación orientada a objetos.  
 
 ---
 
-## 🎓 Educación
+**Simulador de contaminación**  
+Herramienta académica para estimar niveles de contaminación ambiental a partir de datos de entrada ponderados.  
+- Responsabilidades: modelado de variables, lectura y escritura en archivos binarios, cálculo de resultados.  
+- Tecnologías: C, manejo de archivos binarios.  
 
-**Universidad de las Américas** – Ingeniería en Sistemas Computacionales _(en curso)_  
+---
+
+**Revista académica digital**  
+Plataforma web para la publicación y consulta de artículos científicos, integrando un CMS con un gestor documental.  
+- Responsabilidades: maquetación de vistas, configuración de contenidos y organización de recursos.  
+- Tecnologías: Ghost CMS, HTML, Alfresco.  
+
+---
+
+## Educación
+
+**Universidad de las Américas** – Ingeniería en Sistemas Computacionales (en curso)  
 
 - Desarrollo de software  
 - Algoritmos y estructuras de datos  
@@ -71,72 +78,48 @@
 
 ---
 
-## 🌱 Un poco más de mí
+## Experiencia y actividades
 
-- 👦 He enseñado **programación básica** a niños y jóvenes.  
-- 💻 Apoyo en procesos de **alfabetización digital**.  
-- 📚 Me gusta compartir lo que aprendo y seguir mejorando como desarrollador backend.  
+- Enseñanza de programación básica en espacios formativos para jóvenes.  
+- Apoyo en procesos de alfabetización digital.  
+- Enfoque en seguir mejorando como desarrollador backend mediante proyectos personales y académicos.  
 
 ---
 
-## 📊 Stats & actividad
+## Stats y actividad
 
 <div align="center">
 
-<!-- Badges de resumen (enfoque personal, no datos numéricos inventados) -->
 <img src="https://img.shields.io/badge/Enfoque-Backend%20con%20Java-1E90FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estado-Siempre%20aprendiendo-32CD32?style=for-the-badge" />
 
 <br/><br/>
 
-<!-- Tarjeta de detalles del perfil (datos reales desde GitHub) -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianAguilar2006&theme=tokyonight" />
 
 <br/><br/>
 
-<!-- Stats generales (datos reales desde GitHub) -->
 <img src="https://github-readme-stats.vercel.app/api?username=ChristianAguilar2006&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianAguilar2006&theme=tokyonight&hide_border=true" height="160" />
 
 <br/><br/>
 
-<!-- Lenguajes (datos reales desde GitHub) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianAguilar2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" />
 
 </div>
 
 ---
 
-## 🏆 Trofeos
+## Contacto
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChristianAguilar2006&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
-
-</div>
-
----
-
-## 📈 Gráfico de actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianAguilar2006&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-## 📫 Contacto
-
-<div align="center">
-
-¿Te interesa colaborar, tienes una idea de proyecto o simplemente quieres hablar de tecnología y educación?
+Si te interesa colaborar, tienes una idea de proyecto o quieres hablar de desarrollo de software, puedes escribirme aquí:
 
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caem072006)
 
 </div>
 
