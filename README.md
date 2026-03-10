@@ -1,115 +1,288 @@
-<h1 align="center" style="font-weight: 900; font-size: 3.6rem; color: #1e90ff; margin-bottom: 10px;">
-  👋 Hola, soy <span style="color: #ff6f61;">Christian Aguilar</span>
-</h1>
+<!-- BANNER SUPERIOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:6DB33F&height=200&section=header&text=Christian%20Aguilar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
 
-<p align="center" style="font-size: 1.4rem; font-weight: 600; color: #555; margin-bottom: 40px;">
-  Desarrollador apasionado | <span style="color:#ED8B00;">Java</span>, <span style="color:#6DB33F;">Spring Boot</span> &amp; <span style="color:#00599C;">C</span> | Apasionado por la Tecnología y la Educación
-</p>
+<!-- HERO ANIMADO -->
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desarrollador+Java+%7C+Spring+Boot+%7C+C;Apasionado+por+la+tecnolog%C3%ADa+y+la+educaci%C3%B3n;Aprendiendo+y+construyendo+proyectos+reales" alt="Typing SVG" />
 
-<div align="center" style="max-width: 900px; margin: auto; background: #f0f8ff; border-radius: 25px; padding: 30px 50px; box-shadow: 0 12px 40px rgba(30, 144, 255, 0.15);">
+<br/><br/>
 
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 15px;">✨ Sobre mí</h2>
-<p style="font-size: 1.18rem; line-height: 1.7; color: #2c3e50; font-weight: 500;">
-  Soy un apasionado <strong>desarrollador</strong> y estudiante que cree en el poder de la tecnología para crear un impacto social positivo.  
-  Me especializo en <span style="color:#ED8B00;">Java</span>, <span style="color:#6DB33F;">Spring Boot</span> y <span style="color:#00599C;">C</span>,  
-  y disfruto participar en proyectos educativos y de impacto social.<br><br>
-  Creo que <strong>la educación y la tecnología</strong> son las claves para construir un futuro mejor.
-</p>
-
-<hr style="margin: 40px 0; border: none; border-top: 2px solid #1e90ff; width: 80%;" />
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">🛠️ Tecnologías & Herramientas</h2>
-<p align="center" style="margin-bottom: 40px;">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-</p>
-
-<hr style="margin: 40px 0; border: none; border-top: 2px solid #1e90ff; width: 80%;" />
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">🚀 Proyectos destacados</h2>
-
-<table style="width: 100%; border-collapse: collapse; font-size: 1.15rem; color: #34495e;">
-  <thead>
-    <tr style="background-color: #cce5ff; color: #1e3a8a;">
-      <th style="padding: 16px; border-bottom: 3px solid #1e90ff; text-align: left; border-radius: 12px 0 0 0;">Proyecto</th>
-      <th style="padding: 16px; border-bottom: 3px solid #1e90ff; text-align: left;">Descripción</th>
-      <th style="padding: 16px; border-bottom: 3px solid #1e90ff; text-align: left; border-radius: 0 12px 0 0;">Tecnologías</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #e6f0ff;">
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">Gestor de ventas</td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">
-        Sistema de ventas con Java, Spring Boot y manejo de archivos.
-      </td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">Java, Spring Boot, POO, Archivos</td>
-    </tr>
-    <tr>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">Simulador de contaminación</td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">
-        Predicción de contaminación ambiental mediante ponderación de datos.
-      </td>
-      <td style="padding: 14px; border-bottom: 1px solid #ddd;">C, Archivos Binarios</td>
-    </tr>
-    <tr style="background-color: #e6f0ff;">
-      <td style="padding: 14px;">Revista académica digital</td>
-      <td style="padding: 14px;">
-        Plataforma web para publicaciones científicas con Ghost CMS y Alfresco.
-      </td>
-      <td style="padding: 14px;">Ghost CMS, HTML, Alfresco</td>
-    </tr>
-  </tbody>
-</table>
-
-<hr style="margin: 40px 0; border: none; border-top: 2px solid #1e90ff; width: 80%;" />
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">🎓 Educación</h2>
-
-<p style="font-size: 1.15rem; color: #34495e; line-height: 1.6; margin-bottom: 25px;">
-  <strong>Universidad de las Américas</strong><br />
-  Ingeniería en Sistemas Computacionales (en curso)<br />
-  Enfoque en desarrollo de software, algoritmos y estructuras de datos.<br />
-  Participación activa en proyectos y hackathons.
-</p>
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">🤝 Experiencia Voluntaria</h2>
-
-<ul style="font-size: 1.15rem; color: #34495e; line-height: 1.6; margin-bottom: 40px; list-style: none; padding-left: 0;">
-  <li>✔ Enseñanza de programación básica a niños en eventos comunitarios.</li>
-  <li>✔ Apoyo a la alfabetización digital para fomentar inclusión tecnológica.</li>
-</ul>
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">🌐 Idiomas & Habilidades Blandas</h2>
-
-<ul style="font-size: 1.15rem; color: #34495e; line-height: 1.6; list-style: none; padding-left: 0;">
-  <li>🗣️ Inglés: Intermedio (B1/B2), con mejora continua en comunicación técnica y oral</li>
-  <li>🤝 Trabajo en equipo: comunicación efectiva y colaboración</li>
-  <li>🧠 Resolución de problemas: pensamiento analítico y creativo</li>
-  <li>🔄 Adaptabilidad: aprendizaje constante de nuevas tecnologías</li>
-  <li>⏰ Gestión del tiempo: organización y cumplimiento de objetivos</li>
-</ul>
-
-<hr style="margin: 40px 0; border: none; border-top: 2px solid #1e90ff; width: 80%;" />
-
-<h2 style="color: #1e3a8a; font-weight: 900; font-size: 2.6rem; margin-bottom: 25px;">📫 Contacto</h2>
-
-<p align="center" style="font-size: 1.15rem; color: #34495e; font-weight: 600;">
-  <a href="mailto:christian.aguilar.e.m@gmail.com" style="color: #1e90ff; text-decoration: none;">📧 christian.aguilar.e.m@gmail.com</a> &nbsp; | &nbsp;  
-  <a href="https://www.linkedin.com/in/christian-aguilar" target="_blank" style="color: #1e90ff; text-decoration: none;">🌐 LinkedIn</a> &nbsp; | &nbsp;  
-  📍 Quito, Ecuador
-</p>
+[![Email](https://img.shields.io/badge/Email-christian.aguilar.e.m%40gmail.com-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+![Location](https://img.shields.io/badge/Quito-Ecuador-ff6f61?style=for-the-badge&logo=google-maps&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=ChristianAguilar2006&style=for-the-badge&color=0A66C2)
 
 </div>
 
 ---
 
-<p align="center" style="font-style: italic; color: #999; margin-top: 60px;">
-  “La tecnología no es nada. Lo importante es que tengas fe en la gente.” — Steve Jobs
-</p>
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**.  
+- 🧠 Enfocado en **backend con Java y Spring Boot**.  
+- 💡 Me interesa la **educación**, los proyectos con impacto social y el código limpio.  
+- 🚀 Siempre aprendiendo: buenas prácticas, APIs, arquitectura y patrones.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Iconos principales -->
+<img src="https://skillicons.dev/icons?i=java,spring,c,html,css,git,github,idea,vscode&theme=light" />
+
+<br/><br/>
+
+<!-- Badges por tecnología -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Gestor de ventas** | Sistema para gestionar ventas, clientes y registros, aplicando POO y persistencia en archivos. | Java · Spring Boot · POO |
+| **Simulador de contaminación** | Estimación de niveles de contaminación ambiental a partir de datos ponderados. | C · Archivos binarios |
+| **Revista académica digital** | Plataforma para publicaciones científicas integrando Ghost CMS y Alfresco. | Ghost CMS · HTML · Alfresco |
+
+> Cuando tengas los repos públicos, añade los enlaces directos aquí 👆.
+
+---
+
+## 🎓 Educación
+
+**Universidad de las Américas** – Ingeniería en Sistemas Computacionales _(en curso)_  
+
+- Desarrollo de software  
+- Algoritmos y estructuras de datos  
+- Proyectos académicos, hackathons y trabajo en equipo  
+
+---
+
+## 🌱 Un poco más de mí
+
+- 👦 He enseñado **programación básica** a niños y jóvenes.  
+- 💻 Apoyo en procesos de **alfabetización digital**.  
+- 📚 Me gusta compartir lo que aprendo y seguir mejorando como desarrollador backend.  
+
+---
+
+## 📊 Stats & actividad
+
+<div align="center">
+
+<!-- Badges de resumen (enfoque personal, no datos numéricos inventados) -->
+<img src="https://img.shields.io/badge/Enfoque-Backend%20con%20Java-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Estado-Siempre%20aprendiendo-32CD32?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- Tarjeta de detalles del perfil (datos reales desde GitHub) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChristianAguilar2006&theme=tokyonight" />
+
+<br/><br/>
+
+<!-- Stats generales (datos reales desde GitHub) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ChristianAguilar2006&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianAguilar2006&theme=tokyonight&hide_border=true" height="160" />
+
+<br/><br/>
+
+<!-- Lenguajes (datos reales desde GitHub) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianAguilar2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" />
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChristianAguilar2006&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
+
+</div>
+
+---
+
+## 📈 Gráfico de actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianAguilar2006&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+¿Te interesa colaborar, tienes una idea de proyecto o simplemente quieres hablar de tecnología y educación?
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+
+</div>
+
+---
+
+<!-- BANNER INFERIOR -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:1E90FF&height=120&section=footer" />
+</div>
+
+<!-- HERO ANIMADO -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=550&lines=Hola%2C+soy+Christian+Aguilar;Desarrollador+Java+%7C+Spring+Boot+%7C+C;Amante+de+la+tecnolog%C3%ADa+y+la+educaci%C3%B3n" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-christian.aguilar.e.m%40gmail.com-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Christian%20Aguilar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+![Location](https://img.shields.io/badge/Quito-Ecuador-ff6f61?style=for-the-badge&logo=google-maps&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=ChristianAguilar2006&style=for-the-badge&color=0A66C2)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales**.  
+- 🧠 Me enfoco en **backend con Java y Spring Boot**.  
+- 💡 Me interesa la **educación**, los proyectos con impacto social y el código limpio.  
+- 🚀 Siempre aprendiendo algo nuevo: buenas prácticas, APIs, arquitectura y patrones.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- skillicons: fila principal -->
+<img src="https://skillicons.dev/icons?i=java,spring,c,html,css,git,github,idea,vscode&theme=light" />
+
+<br/><br/>
+
+<!-- Badges por tecnología -->
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías |
+|---------|-------------|-------------|
+| **Gestor de ventas** | Sistema para gestionar ventas, clientes y registros, aplicando POO y persistencia en archivos. | Java · Spring Boot · POO |
+| **Simulador de contaminación** | Estimación de niveles de contaminación ambiental a partir de datos ponderados. | C · Archivos binarios |
+| **Revista académica digital** | Plataforma para publicaciones científicas integrando Ghost CMS y Alfresco. | Ghost CMS · HTML · Alfresco |
+
+> Cuando tengas los repos públicos, añade los enlaces directos aquí 👆.
+
+---
+
+## 🎓 Educación
+
+**Universidad de las Américas** – Ingeniería en Sistemas Computacionales _(en curso)_  
+
+- Desarrollo de software  
+- Algoritmos y estructuras de datos  
+- Proyectos académicos, hackathons y trabajo en equipo  
+
+---
+
+## 🌱 Un poco más de mí
+
+- 👦 He enseñado **programación básica** a niños y jóvenes.  
+- 💻 Apoyo en procesos de **alfabetización digital**.  
+- 📚 Me gusta compartir lo que aprendo y seguir mejorando como desarrollador backend.  
+
+---
+
+## 📊 Stats & actividad
+
+<div align="center">
+
+<!-- Badges de resumen (enfoque personal, no datos numéricos) -->
+<img src="https://img.shields.io/badge/Enfoque-Backend%20con%20Java-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Estado-Siempre%20aprendiendo-32CD32?style=for-the-badge" />
+
+<br/><br/>
+
+<!-- Stats generales (datos reales desde GitHub) -->
+<img src="https://github-readme-stats.vercel.app/api?username=ChristianAguilar2006&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristianAguilar2006&theme=tokyonight&hide_border=true" height="160" />
+
+<br/><br/>
+
+<!-- Lenguajes (datos reales desde GitHub) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianAguilar2006&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="150" />
+
+</div>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ChristianAguilar2006&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
+
+</div>
+
+---
+
+## 📈 Gráfico de actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChristianAguilar2006&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contacto
+
+<div align="center">
+
+¿Te interesa colaborar, tienes una idea de proyecto o simplemente quieres hablar de tecnología y educación?
+
+<br/><br/>
+
+[![Email](https://img.shields.io/badge/Email-1e90ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian.aguilar.e.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-aguilar)
+
+</div>
+
+---
+
+<div align="center">
+
+> “La tecnología no es nada. Lo importante es que tengas fe en la gente.” — Steve Jobs  
+
+</div>
